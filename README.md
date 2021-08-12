@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning `Vue.js`
 - 💞️ I’m looking to collaborate on `new opportunities`
 - 📫 How to reach me `+91-9916972978` or `naveendb92@gmail.com`
-- 🔗 Portfolio `http://naveendb.website/`
+- 🔗 Portfolio `https://naveendb.in`
 - 🇮🇳 Bangalore, India
 
 <!---
