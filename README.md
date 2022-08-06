@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dbnaveen&label=Profile%20views&color=4394df&style=flat-square" alt="dbnaveen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dbnaveen" alt="dbnaveen" /></a> </p>
-
 - 👨‍💻 Check out my personal portfolio [https://naveendb.in/](https://naveendb.in/)
 
 - 💬 Ask me about **react, vue and angular**
