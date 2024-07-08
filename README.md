@@ -5,7 +5,7 @@
 
 - 👨‍💻 Check out my personal portfolio [https://naveendb.in/](https://naveendb.in/)
 
-- 💬 Ask me about **react, vue and angular**
+- 💬 Ask me about **React, Vue, Angular and JavaScript**
 
 - 📫 How to reach me **+91-9916972978 and naveendb92@gmail.com**
 
